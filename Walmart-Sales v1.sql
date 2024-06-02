@@ -2,7 +2,7 @@
 
 									Walmart Salesn
 
-		Approach Used: Dat Wrangling, Feature Engineering, Exploratory Data Analysis
+		Approach Used: Data Wrangling, Feature Engineering, Exploratory Data Analysis
 
 */
 
