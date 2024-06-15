@@ -1,6 +1,6 @@
 /* 
 
-									Walmart Salesn
+									Walmart Sales
 
 		Approach Used: Data Wrangling, Feature Engineering, Exploratory Data Analysis
 
